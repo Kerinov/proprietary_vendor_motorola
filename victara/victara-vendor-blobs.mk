@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/victara/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
     vendor/motorola/victara/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/motorola/victara/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
+		vendor/motorola/victara/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/motorola/victara/proprietary/etc/acdbdata/victara_cn/victara_cn_Handset_cal.acdb:system/etc/acdbdata/victara_cn/victara_cn_Handset_cal.acdb \
     vendor/motorola/victara/proprietary/etc/acdbdata/victara_cn/victara_cn_Bluetooth_cal.acdb:system/etc/acdbdata/victara_cn/victara_cn_Bluetooth_cal.acdb \
     vendor/motorola/victara/proprietary/etc/acdbdata/victara_cn/victara_cn_Speaker_cal.acdb:system/etc/acdbdata/victara_cn/victara_cn_Speaker_cal.acdb \
